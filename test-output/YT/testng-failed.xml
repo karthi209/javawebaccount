@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [YT]">
+  <test name="GURU99TestNGAnt(failed)">
+    <classes>
+      <class name="testAnt.Guru99AntClass">
+        <methods>
+          <include name="Guru99AntTestNGMethod"/>
+        </methods>
+      </class> <!-- testAnt.Guru99AntClass -->
+    </classes>
+  </test> <!-- GURU99TestNGAnt(failed) -->
+</suite> <!-- Failed suite [YT] -->
